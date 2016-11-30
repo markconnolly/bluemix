@@ -16,3 +16,5 @@ toolchains
 sauce labs
 
 slack
+
+bluemix discovery
