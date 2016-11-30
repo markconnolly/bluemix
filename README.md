@@ -8,3 +8,7 @@ microservices and eventual consistency
 entity versioning
 
 deprecation processing 
+
+cloud foundary
+
+tool chains
