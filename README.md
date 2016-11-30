@@ -1,4 +1,4 @@
-# bluemix
+# bluemix notes
 ## microservices
 12factor.net bluemix principles (twelve factors)
 caller version sensitivity
