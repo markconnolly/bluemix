@@ -18,3 +18,6 @@ sauce labs
 slack
 
 bluemix discovery
+
+amalgamate
+
