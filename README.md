@@ -12,3 +12,7 @@ deprecation processing
 cloud foundary
 
 toolchains
+
+sauce labs
+
+slack
